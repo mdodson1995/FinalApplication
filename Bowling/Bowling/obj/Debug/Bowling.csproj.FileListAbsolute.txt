@@ -1,0 +1,6 @@
+C:\Users\Mathew\Desktop\CIT255\Projects\FinalApplication\Bowling\Bowling\bin\Debug\Bowling.exe.config
+C:\Users\Mathew\Desktop\CIT255\Projects\FinalApplication\Bowling\Bowling\bin\Debug\Bowling.exe
+C:\Users\Mathew\Desktop\CIT255\Projects\FinalApplication\Bowling\Bowling\bin\Debug\Bowling.pdb
+C:\Users\Mathew\Desktop\CIT255\Projects\FinalApplication\Bowling\Bowling\obj\Debug\Bowling.csprojResolveAssemblyReference.cache
+C:\Users\Mathew\Desktop\CIT255\Projects\FinalApplication\Bowling\Bowling\obj\Debug\Bowling.exe
+C:\Users\Mathew\Desktop\CIT255\Projects\FinalApplication\Bowling\Bowling\obj\Debug\Bowling.pdb
